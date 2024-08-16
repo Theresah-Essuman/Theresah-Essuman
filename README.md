@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Theresah-Essuman
-- 👀 I’m currently study  Data Analytics at Azubi Africa, Msc. Data Science UEL
+- 👀 I’m currently studying  Data Analytics at Azubi Africa, Msc. Data Science UEL
 - 🌱 I’m working on a streamlit web app churn predictor
 - 💞️ I’m open to work
 - 📫 How to reach me hasereth9@gmail.com
